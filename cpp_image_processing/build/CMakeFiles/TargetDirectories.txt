@@ -1,0 +1,9 @@
+C:/opencvtest/build/CMakeFiles/Experimental.dir
+C:/opencvtest/build/CMakeFiles/Nightly.dir
+C:/opencvtest/build/CMakeFiles/Continuous.dir
+C:/opencvtest/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/opencvtest/build/CMakeFiles/opencvtest.dir
+C:/opencvtest/build/CMakeFiles/PACKAGE.dir
+C:/opencvtest/build/CMakeFiles/RUN_TESTS.dir
+C:/opencvtest/build/CMakeFiles/ALL_BUILD.dir
+C:/opencvtest/build/CMakeFiles/ZERO_CHECK.dir
