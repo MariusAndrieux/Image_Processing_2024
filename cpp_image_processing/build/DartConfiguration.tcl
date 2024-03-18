@@ -4,14 +4,14 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/opencvtest
-BuildDirectory: C:/opencvtest/build
+SourceDirectory: C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing
+BuildDirectory: C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: MSI
+Site: PC
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Win32-MSBuild
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/opencvtest"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing"
 MakeCommand: "C:\Program Files\CMake\bin\cmake.exe" --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -81,7 +81,7 @@ MemoryCheckCommandOptions:
 MemoryCheckSuppressionFile: 
 
 # Coverage
-CoverageCommand: C:/MinGW/bin/gcov.exe
+CoverageCommand: COVERAGE_COMMAND-NOTFOUND
 CoverageExtraFlags: -l
 
 # Testing options

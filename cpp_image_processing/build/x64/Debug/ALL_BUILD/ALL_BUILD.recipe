@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\opencvtest\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Marius\Documents\code\Image_Processing_2024\cpp_image_processing\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\opencvtest\build\Debug\opencvtest.exe</FullPath>
+      <FullPath>C:\Users\Marius\Documents\code\Image_Processing_2024\cpp_image_processing\build\Debug\cpp_image_processing.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\opencvtest\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\Users\Marius\Documents\code\Image_Processing_2024\cpp_image_processing\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,6 +1,6 @@
-^C:\OPENCVTEST\BUILD\CMAKEFILES\197592DE0D8F714263A7E68877F7E835\GENERATE.STAMP.RULE
+^C:\USERS\MARIUS\DOCUMENTS\CODE\IMAGE_PROCESSING_2024\CPP_IMAGE_PROCESSING\BUILD\CMAKEFILES\570BFC18353434F20FA50905C573009A\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/opencvtest -BC:/opencvtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/opencvtest/build/opencvtest.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing -BC:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing/build/cpp_image_processing.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

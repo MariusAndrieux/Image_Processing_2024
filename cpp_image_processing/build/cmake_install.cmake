@@ -1,8 +1,8 @@
-# Install script for directory: C:/opencvtest
+# Install script for directory: C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files/opencvtest")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files/cpp_image_processing")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/opencvtest/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

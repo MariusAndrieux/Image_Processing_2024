@@ -2,7 +2,7 @@
 
 int main() {
     // Chemin relatif ou absolu vers l'image
-    std::string chemin_image = "C:/opencvtest/rect.jpg";
+    std::string chemin_image = "C:/Users/Marius/Documents/code/Image_Processing_2024/cpp_image_processing/rect.jpg";
 
     // Taille image
     int larg_image_pix = 800;
