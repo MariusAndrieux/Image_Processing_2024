@@ -1,2 +1,2 @@
 # Image_Processing_2024
-Code for image processing
+Devellopement of an image processing system in C++
